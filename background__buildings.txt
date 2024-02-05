@@ -1,0 +1,100 @@
+House
+Apartment Building
+Villa
+Bungalow
+Cottage
+Townhouse
+Condominium
+Duplex
+Triplex
+Mansion
+Farmhouse
+Ranch House
+Log Cabin
+Chalet
+Castle
+Palace
+Manor House
+Chateau
+Caravan/RV
+Treehouse
+Skyscraper
+Office Building
+Hospital
+School/University
+Library
+Museum
+Shopping Mall
+Warehouse
+Factory
+Church/Cathedral
+Mosque
+Temple
+Synagogue
+Pagoda
+Shrine
+Mausoleum/Tomb
+Lighthouse
+Fire Station
+Police Station
+Courthouse
+Government Building
+City Hall
+Post Office
+Bank
+Airport Terminal
+Train Station
+Bus Station
+Subway Station
+Amusement Park
+Zoo
+Aquarium
+Stadium/Arena
+Convention Center
+Theater
+Cinema
+Concert Hall
+Hotel
+Motel
+Resort
+Hostel
+Casino
+Restaurant
+Café/Coffee Shop
+Bar/Pub
+Nightclub
+Shopping Center
+Supermarket
+Grocery Store
+Gas Station
+Car Dealership
+Car Wash
+Parking Garage
+Car Repair Shop
+Gym/Fitness Center
+Spa/Wellness Center
+Swimming Pool
+Bowling Alley
+Skating Rink
+Golf Course/Club
+Tennis Court
+Basketball Court
+Soccer Field
+Baseball Field
+Cricket Ground
+Playground
+Water Park
+Beach Resort
+Ski Resort
+Camping Ground
+Botanical Garden
+Nature Reserve
+National Park
+Theme Park
+Shopping Street
+Pedestrian Zone
+Plaza/Square
+Garden/Park
+Bridge
+Dam
+Pier

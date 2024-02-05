@@ -1,0 +1,200 @@
+Rose
+Sunflower
+Tulip
+Orchid
+Lily
+Daisy
+Lavender
+Daffodil
+Marigold
+Pansy
+Hyacinth
+Iris
+Peony
+Geranium
+Chrysanthemum
+Hibiscus
+Petunia
+Zinnia
+Carnation
+Azalea
+Cactus
+Fern
+Moss
+Ivy
+Palm
+Succulent
+Bamboo
+Bonsai
+Ficus
+Rubber Plant
+Aloe Vera
+Snake Plant
+Spider Plant
+Peace Lily
+Philodendron
+Jade Plant
+Boston Fern
+African Violet
+Croton
+Coleus
+Amaryllis
+Begonia
+African Daisy
+Chives
+Basil
+Mint
+Thyme
+Oregano
+Rosemary
+Sage
+Parsley
+Cilantro
+Lavender
+Dill
+Fennel
+Lemongrass
+Cumin
+Chamomile
+Cinnamon
+Saffron Crocus
+Ginger
+Turmeric
+Bay Leaf
+Marjoram
+Tarragon
+Stevia
+Peppermint
+Spearmint
+Lemon Balm
+Catnip
+Echinacea
+St. John's Wort
+Ginkgo Biloba
+Aloe Vera
+Valerian
+Chamomile
+Lavender
+Ginseng
+Milk Thistle
+Evening Primrose
+Passionflower
+Black Cohosh
+Gotu Kola
+Skullcap
+Kava Kava
+White Willow Bark
+Elderberry
+Yarrow
+Eucalyptus
+Calendula
+Comfrey
+Arnica
+Feverfew
+Arnica
+Yucca
+Echinacea
+Wormwood
+Lobelia
+Mugwort
+Goldenseal
+Lady's Slipper
+Bilberry
+Goldenseal
+Slippery Elm
+Echinacea
+Milk Thistle
+Plantain
+Pau d'Arco
+Saw Palmetto
+Burdock Root
+Cat's Claw
+Devil's Claw
+Eyebright
+Flaxseed
+Ginkgo Biloba
+Hawthorn
+Hops
+Horsetail
+Maca Root
+Nettle
+Red Clover
+Reishi Mushroom
+Rhodiola Rosea
+St. John's Wort
+Schisandra
+Siberian Ginseng
+Valerian
+Licorice Root
+Holy Basil
+Yerba Mate
+Ashwagandha
+Astragalus
+Black Cohosh
+Chaga Mushroom
+Dong Quai
+Kudzu
+Milk Thistle
+Mullein
+Olive Leaf
+Passionflower
+Rhubarb Root
+Saw Palmetto
+Slippery Elm
+Usnea
+Uva Ursi
+Valerian
+Wild Yam
+Wormwood
+Yellow Dock
+Aloe Vera
+Snake Plant
+Peace Lily
+Spider Plant
+Dracaena
+Chinese Evergreen
+Ficus
+Rubber Plant
+Pothos
+ZZ Plant
+Monstera
+Bird of Paradise
+Calathea
+Croton
+Areca Palm
+Boston Fern
+Peace Lily
+Rubber Plant
+Devil's Ivy
+Snake Plant
+Spider Plant
+Philodendron
+Pothos
+ZZ Plant
+Aloe Vera
+African Violet
+Bird of Paradise
+Orchid
+Maranta
+Bromeliad
+Begonia
+Cactus
+Cyclamen
+Daisy
+Crocus
+Echinacea
+Fuchsia
+Gladiolus
+Hibiscus
+Hydrangea
+Impatiens
+Jasmine
+Kalanchoe
+Lilac
+Magnolia
+Nasturtium
+Oleander
+Peony
+Queen Anne's Lace
+Ranunculus
+Snapdragon

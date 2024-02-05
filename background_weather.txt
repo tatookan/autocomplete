@@ -1,0 +1,130 @@
+Sunny
+Cloudy
+Rainy
+Thunderstorms
+Snowy
+Foggy
+Hailstorm
+Blizzard
+Sleet
+Drizzle
+Misty
+Overcast
+Showers
+Downpour
+Clear sky
+Partly cloudy
+Scattered clouds
+Broken clouds
+Heavy rain
+Light rain
+Torrential rain
+Monsoon
+Tornado
+Cyclone
+Hurricane
+Typhoon
+Windy
+Breezy
+Gusty
+Calm
+Hot
+Cold
+Warm
+Chilly
+Freezing
+Sweltering
+Humid
+Dry
+Arid
+Wet
+Damp
+Sultry
+Muggy
+Ice storm
+Hazy
+Frosty
+Stormy
+Gusty
+Frigid
+Tumultuous
+Steamy
+Cloudburst
+Squall
+Heatwave
+Polar vortex
+Snowstorm
+Sunny with a chance of showers
+Sunshine and clouds
+Balmy
+Wintry mix
+Clear and cool
+Heavy snowfall
+Severe thunderstorms
+Heat lightning
+Wind chill
+Dust storm
+Muggy and overcast
+Sunny and crisp
+Freezing rain
+Rain showers and thunder
+Brisk and cloudy
+Light dusting of snow
+Cool and breezy
+Sunny with scattered clouds
+Tropical cyclone
+Dry heat
+High humidity
+Rainbow after the rain
+Foggy with mist
+Scorching
+Light showers and gusty winds
+Snow flurries
+Chilly and damp
+Overcast with light drizzle
+Heavy downpour and flooding
+Blustery and cold
+Frost and fog
+Soggy and muddy
+Blizzard conditions
+Intense heat and humidity
+Warm and balmy
+Crisp autumn weather
+Snow squall
+Gusts of wind and rain
+Early morning frost
+Fog lifting to reveal sun
+Clear night with starry sky
+Light snow and freezing temperatures
+Cloudy with a chance of showers
+Misty and cool
+Clear weather
+Fair weather
+Thunderstorm weather
+Flash flood weather
+Hail weather
+Foggy weather
+Frosty weather
+Freezing weather
+Overcast weather
+Cold front weather
+Blizzard weather
+Heat wave weather
+Chilly weather
+Choppy weather
+Calm weather
+Windy weather
+Gusty weather
+Muggy weather
+Hoarfrost weather
+Overcast weather
+Frosty weather
+Freezing cold weather
+Blizzard weather
+Chilly weather
+Choppy weather
+Calm weather
+Windy weather
+Gusty weather
+Muggy weather
+Hoarfrost weather
